@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context="com.example.kim00451androidlab3.ProfileActivity">
+
+    <TextView
+        android:id="@+id/titleProfile"
+        android:layout_width="204dp"
+        android:layout_height="30dp"
+        android:text="@string/profile" />
+
+    <TextView
+        android:id="@+id/titleName"
+        android:layout_width="204dp"
+        android:layout_height="30dp"
+        android:text="@string/nameTitle" />
+
+    <EditText
+        android:id="@+id/textName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/enterName"/>
+
+    <TextView
+        android:id="@+id/titleEmail"
+        android:layout_width="204dp"
+        android:layout_height="30dp"
+        android:text="@string/nameEmail" />
+
+    <EditText
+        android:id="@+id/textEnter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="@string/typeEmail"/>
+
+    <TextView
+        android:id="@+id/titlePicture"
+        android:layout_width="204dp"
+        android:layout_height="30dp"
+        android:text="@string/namePicture" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/picture_frame"
+        app:srcCompat="@drawable/ic_launcher_foreground" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="@string/imagebtn" />
+
+    <Button
+        android:id="@+id/chatbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to chat" />
+
+</LinearLayout>

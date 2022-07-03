@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--lab2 -->
+    <string name="app_name">랩2</string>
+    <string name="hello_message">안녕 세상아</string>
+    <string name="ButtonText">나 버튼임</string>
+    <string name="CheckBoxText">체크박스입니다</string>
+    <string name="SwitchText">스위치 켰다 껐다</string>
+    <string name="hintText">여기다 글 써</string>
+    <string name="toast_message">더 많은 정보</string>
+    <string name="title">랩2 지유아이</string>
+    <string name="input">인풋 이름</string>
+
+    <!-- lab3  -->
+    <string name="enterEmail">이메일 입력 :  </string>
+    <string name="typeEmail">이메일 입력해</string>
+    <string name="loginButton">로그인</string>
+    <string name="enterPwd">비밀번호 입력</string>
+    <string name="profile">나의 프로필: </string>
+    <string name="nameTitle">당신의 이름은: </string>
+    <string name="enterName">이름 입력</string>
+    <string name="nameEmail">당신의 이메일은: </string>
+    <string name="namePicture">당신의 프로필: </string>
+    <string name="imagebtn">사진을 업로드 해주세요</string>
+
+    <!-- lab4 -->
+    <string name="recieveMsg">받기</string>
+    <string name="sendMsg">보내기</string>
+    <string name="enterMsg">메세지를 입력해주세요</string>
+
+
+</resources>

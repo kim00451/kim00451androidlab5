@@ -1,0 +1,27 @@
+<resources>
+    <!--lab2 -->
+    <string name="app_name">Lab2</string>
+    <string name="hello_message">Look at my GUI</string>
+    <string name="ButtonText">CLICK HERE</string>
+    <string name="CheckBoxText">SELECT CHECKBOX</string>
+    <string name="SwitchText">Switch on/off</string>
+    <string name="hintText">TEXT HERE</string>
+    <string name="toast_message">Here is more information</string>
+    <string name="title">Lab2 GUI</string>
+    <string name="input">ENTER THE NAME</string>
+    <!-- lab3  -->
+    <string name="enterEmail">Enter your email address: </string>
+    <string name="typeEmail">Type email here</string>
+    <string name="enterPwd">Type your password: </string>
+    <string name="loginButton">login</string>
+    <string name="profile">Your profile: </string>
+    <string name="nameTitle">your name: </string>
+    <string name="nameEmail">your email: </string>
+    <string name="enterName">Enter your name  </string>
+    <string name="namePicture">your Picture: </string>
+    <string name="imagebtn">Click the button above to take a picture</string>
+    <!--LAB4-->
+    <string name="recieveMsg">Recieve</string>
+    <string name="sendMsg">Send</string>
+    <string name="enterMsg">Enter the message</string>
+</resources>
